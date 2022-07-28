@@ -25,4 +25,4 @@ The code for this website displays text, photos, and links to showcase my projec
 
 ## Credits
 
-Chelsea Krum
+Chelsea Krum 
