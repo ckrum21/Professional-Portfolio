@@ -4,7 +4,8 @@
 My professional portfolio is a website in which I can showcase my work to employers. In this website, an employer can view a photo of me, a discription of me, my works, and my contact information. When a user clicks on the links below the header, the UI scrolls to the corresponding section in the webpage. When the user clicks on the photos of my projects, it takes the user to that project.
 
 ## Installation 
-link to website: 
+link to website: https://ckrum21.github.io/Professional-Portfolio/ 
+link to GitHub: https://github.com/ckrum21 
 
 Install this website by cloning the code to your local devices.
 
